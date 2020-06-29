@@ -7,7 +7,11 @@
 
 # 2. Development tools
 
+- [Git](./DevelopmentTools/Git.md).
 - [Maven](./DevelopmentTools/Maven.md).
 - [SVN](./DevelopmentTools/SVN.md).
 
 # TODO
+
+- [ ] 补充 Git 面试题；
+- [ ] 完成 SVN 课程学习；
